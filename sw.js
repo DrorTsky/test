@@ -4,6 +4,7 @@ const resourcesToPrecache = [
   'index.html',
 ];
 
+console.log("here3");
 
 importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js"
